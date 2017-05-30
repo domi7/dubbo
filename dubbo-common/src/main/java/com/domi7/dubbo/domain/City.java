@@ -2,6 +2,11 @@ package com.domi7.dubbo.domain;
 
 import java.io.Serializable;
 
+/**
+ * 
+ * @author domi7
+ * @since 2017年5月30日
+ */
 public class City implements Serializable {
 
 	/**
