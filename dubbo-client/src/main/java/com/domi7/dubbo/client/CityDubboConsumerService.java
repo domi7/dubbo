@@ -6,6 +6,12 @@ import com.alibaba.dubbo.config.annotation.Reference;
 import com.domi7.dubbo.domain.City;
 import com.domi7.dubbo.service.CityDubboService;
 
+/**
+ * 消费服务
+ * 
+ * @author domi7
+ * @since 2017年5月30日
+ */
 @Component
 public class CityDubboConsumerService {
 
